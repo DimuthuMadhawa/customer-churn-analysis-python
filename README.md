@@ -125,15 +125,3 @@ pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook TCA.ipynb
 ```
 
----
-
-## 📄 Full Report
-
-For the complete written summary of insights and recommendations, see:
-[`Teco Customer Churn Analysys.pdf`](./Teco%20Customer%20Churn%20Analysys.pdf)
-
----
-
-## 👤 Author
-
-*Feel free to connect if you have questions or feedback about this analysis.*
