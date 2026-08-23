@@ -115,7 +115,7 @@ Customers with **Online Security, Tech Support, and Online Backup enabled churn 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/Customer-Churn-Insights.git
+git clone https://github.com/DimuthuMadhawa/customer-churn-analysis-python.git
 cd Customer-Churn-Insights
 
 # 2. Install dependencies
